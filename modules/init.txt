@@ -38,3 +38,15 @@
 
 custom/commands/
 custom/lua/test_npcs_in_gm_home.lua
+
+custom/Apocalypse/Custom_Items.sql
+custom/Apocalypse/Custom_JobAbilities.sql
+custom/Apocalypse/Custom_JobTraits.sql
+custom/Apocalypse/Custom_mob_spawn_points.sql
+custom/Apocalypse/Custom_MobDropList.sql
+custom/Apocalypse/Custom_MobGroups.sql
+custom/Apocalypse/Custom_NPC.sql
+custom/Apocalypse/Custom_Spells.sql
+custom/Apocalypse/Custom_Synthesis.sql
+custom/Apocalypse/Custom_WeaponSkillMods.lua
+custom/Apocalypse/Custom_WeaponSkills.sql

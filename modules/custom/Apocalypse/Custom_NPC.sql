@@ -1,0 +1,2 @@
+UPDATE `npc_list` SET `content_tag` = NULL WHERE `name` = 'Falgima'; -- Make Selbina spell NPC appear regardless of era
+UPDATE `npc_list` SET `content_tag` = NULL WHERE `name` = 'Tya_Padolih'; -- Make Mhaura spell NPC appear regardless of era
